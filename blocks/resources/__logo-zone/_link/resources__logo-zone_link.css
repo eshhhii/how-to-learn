@@ -1,8 +1,0 @@
-.resources__logo-zone_link{
-    display: block;
-}
-.resources__logo-zone_link:hover{
-    display: block;
-    opacity: 0.7;
-    transition: linear;
-}
