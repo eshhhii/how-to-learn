@@ -9,5 +9,5 @@
   }
   .footer__column-link:hover{
     opacity: 0.7;
-    transition: linear;
+    transition: linear 0.2s;
   }
