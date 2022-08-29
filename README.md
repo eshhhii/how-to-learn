@@ -1,5 +1,5 @@
 <h1><b>Проектная работа</b>:</h1>
-how-to-learn https://eshhhii.github.io/russian-travel/
+how-to-learn https://eshhhii.github.io/how-to-learn/
 
 <h2><b>Описание</b>:</h2>
 Проект, созданный для изучения html и css 
